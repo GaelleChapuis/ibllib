@@ -5,3 +5,4 @@
 # @Last Modified time: 27-07-2018 01:54:49.4949
 import alf.extractors as extractors
 import alf.scraper as scraper
+import alf.alf as alf
